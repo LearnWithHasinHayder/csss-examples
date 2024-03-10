@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+
+h1{
+    color :orangered ;
+    /* color: rgb(255, 69, 0); */
+    /* color: rgba(255, 69, 0, 0.5); */
+} 
+
+p{
+    color: #222;
+    /* color: #222222; */
+}
+/* span{
+    color: blue;
+} */
+
+p span{
+    color: blue;
+}
+
+.nicecolor{
+    color: slateblue;
+}
+
+#warning, #warning2{
+    color: red;
+    font-size:22px;
+}
